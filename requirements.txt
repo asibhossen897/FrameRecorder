@@ -1,0 +1,4 @@
+tkinter
+mss
+numpy
+opencv-python
