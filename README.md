@@ -33,8 +33,8 @@ git clone https://github.com/asibhossen897/FrameRecorder.git
 
 
 ### Prerequisites
-> **_NOTE:_**   
-<b>Python 3</b> and <b>pip</b> must be installed in your computer.
+> [!IMPORTANT]
+> <b>Python 3</b> and <b>pip</b> must be installed in your computer.
 
 Run the following command to install the required packages.
 
@@ -42,7 +42,8 @@ Run the following command to install the required packages.
 pip install -r requirements.txt
 ```
 
-If you want to run this in a Linux based OS, you need to install **python3-tk** and **scrot** package.
+> [!IMPORTANT]
+> If you want to run this in a Linux based OS, you need to install **python3-tk** and **scrot** package.
 
 ```bash
 sudo apt-get install python3-tk scrot
