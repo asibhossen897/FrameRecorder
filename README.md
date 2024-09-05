@@ -14,6 +14,8 @@ Imagine you are drawing pictures or writing a program on your computer. Wouldn't
 
 ### Added a new feature to record the screen by selecting a specific monitor.
 
+![Monitor Selection](./assets/monitor_selection.png)
+
 Goto File -> Monitor Selection and select the monitor you want to record.
 
 ### FrameRecorder [YouTube Introduction](https://www.youtube.com/watch?v=lYoVWss5-F0&t=1s)
