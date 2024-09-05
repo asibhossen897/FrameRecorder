@@ -33,7 +33,7 @@ git clone https://github.com/asibhossen897/FrameRecorder.git
 
 
 ### Prerequisites
-
+> **_NOTE:_**   
 <b>Python 3</b> and <b>pip</b> must be installed in your computer.
 
 Run the following command to install the required packages.
